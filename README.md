@@ -16,3 +16,8 @@ We used a period of 7 days to compute the running mean and the function from the
 
 The data used was extracted from the [INMET database](https://bdmep.inmet.gov.br/). We used the period between 2019 and 2021 for all the stations available, and divided the data between the [8 bioclimatic zones](https://www.abntcatalogo.com.br/norma.aspx?Q=aXVWUnIvNmh2TStycVVzWFlvQTlyb0hhaVo3NDBFRk8=).
 
+The figure presents the brazilian bioclimatic zones (adpated from the ABNT NBR 15.220) and the location of the weather stations: 
+
+<img src="https://github.com/juliaplazari/CATE22-adpatative_model_brasil/blob/main/bioclimatic_zones_and_weather_stations.png" width="300" />
+
+For more information about this project, you can email: j200298@dac.unicamp.br or juliana.oliveira@estudante.ufscar.br
