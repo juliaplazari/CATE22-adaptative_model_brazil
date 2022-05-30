@@ -1,4 +1,4 @@
-# CATE22-adpatative_model_brasil
+# CATE22-adaptative_model_brazil
 
 This repository presents the data analysis done for the paper "Thermal comfort provision in naturally ventilated buildings:  a comparison between Brazil and North American standards". The paper will be presented at the [CATEE 22](https://comfortattheextremes.com/september-about/) conference.
 
